@@ -21,7 +21,7 @@ import java.util.List;
             Categoria ca1 = new Categoria();
             ca1.setId(1L);
             ca1.setNome("Alimentação");
-            ca1.setDescricao("Serviços relacionados à produção, preparo e venda de alimentos, como marmitas, doces, bolos e catering.");
+            ca1.setDescricao("Serviços relacionados à produção, preparo e venda de alimentos, como marmitas, doces e bolos.");
             ca1.setStatusCategoria("ATIVO");
 
 
